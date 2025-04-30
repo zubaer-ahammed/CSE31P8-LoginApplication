@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|e:\\y3s1\\cse31p8 [oop-ii lab]\\loginapplication\\loginapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|e:\\y3s1\\cse31p8 [oop-ii lab]\\loginapplication\\loginapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|e:\\y3s1\\cse31p8 [oop-ii lab]\\loginapplication\\loginapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\loginapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\loginapplication\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\loginapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EEEB1AD4-E8B8-4227-B617-2D351D893ED3}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmMain.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\frmMain.cs",
+              "ToolTip": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmMain.cs",
+              "RelativeToolTip": "LoginApplication\\frmMain.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:27:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmMain.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\frmMain.cs",
+              "ToolTip": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmMain.cs [Design]",
+              "RelativeToolTip": "LoginApplication\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:26:42.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmLogin.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\frmLogin.cs",
+              "ToolTip": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmLogin.cs",
+              "RelativeToolTip": "LoginApplication\\frmLogin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:36:30.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmLogin.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\frmLogin.cs",
+              "ToolTip": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmLogin.cs [Design]",
+              "RelativeToolTip": "LoginApplication\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:36:18.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.config",
+              "DocumentMoniker": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\app.config",
+              "RelativeDocumentMoniker": "LoginApplication\\app.config",
+              "ToolTip": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\app.config",
+              "RelativeToolTip": "LoginApplication\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-30T19:35:58.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\frmLogin.Designer.cs",
+              "ToolTip": "E:\\Y3S1\\CSE31P8 [OOP-II Lab]\\LoginApplication\\LoginApplication\\frmLogin.Designer.cs",
+              "RelativeToolTip": "LoginApplication\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:35:46.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
